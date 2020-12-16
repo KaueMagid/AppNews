@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">AppNews</string>
+    <string name="news_image">New image</string>
+    <string name="news_title">Learn Edit Images</string>
+    <string name="news_description">Nothing</string>
+    <string name="news_date">10/10/2020</string>
 </resources>
